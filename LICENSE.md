@@ -1,4 +1,4 @@
-# 
+# 开源 1Password 脚本 Mac OS版 | 安全 1Password 脚本 PC Windows版。集成 邮件保护 和 加密保险库，跨平台性能最大化。
 
 
 
